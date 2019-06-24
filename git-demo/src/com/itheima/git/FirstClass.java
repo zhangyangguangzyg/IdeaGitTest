@@ -13,5 +13,6 @@ public class FirstClass {
     }
     public void test(){
         System.out.println("000");
+        System.out.println("002");
     }
 }
